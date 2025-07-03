@@ -1,0 +1,1 @@
+This comprehensive Angular application combines user authentication with product and category management to create a full-featured e-commerce platform. The system features secure authentication, admin controls, and complete product catalog functionality.
